@@ -1,4 +1,5 @@
 #ใบงานที่ 10
+# นายวีรภัทร	แก่นจันทร์	57030222
 ##การเขียนโปรแกรมกราฟฟิกส์ด้วย GDI+ (2)
 ##กล่าวนำ
 ใบงานนี้ มีวัตถุประสงค์ เพื่อให้นักศึกษา ได้รู้จักกับ GDI+ ซึ่งจะช่วยให้นักษาสามารถ
@@ -120,3 +121,4 @@
 ### [System.Drawing Namespace](https://msdn.microsoft.com/en-us/library/system.drawing(v=vs.110).aspx)
 ### [GDI+ .NET Color & HatchStyle Chart](https://drewnoakes.com/snippets/GdiColorChart/)
 
+# นายวีรภัทร	แก่นจันทร์	57030222
